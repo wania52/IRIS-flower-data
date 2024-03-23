@@ -30,8 +30,4 @@ To use this project:
 
 Contributions to this project are welcome! If you have any ideas for improvement or would like to explore additional machine learning or deep learning techniques for Iris flower classification, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 PS: Don't forget to drop a star if you find this project helpful and informative!
